@@ -1,0 +1,6 @@
+nome = input('Nome: ')
+lista = nome.split()
+print(lista)
+print(len(lista))
+print('Primeiro nome: {}' .format(lista[0]))
+print('Último nome: {}' .format(lista[len(lista) - 1]))

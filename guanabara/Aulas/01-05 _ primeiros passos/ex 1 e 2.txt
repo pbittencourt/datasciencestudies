@@ -1,0 +1,2 @@
+Exercício Python #001 - Deixando tudo pronto
+Exercício Python #002 - Respondendo ao Usuário

@@ -1,0 +1,8 @@
+nome = input('Qual é o seu nome? ')
+print(nome.upper())
+print(nome.lower())
+qtd = len(nome) - nome.count(' ')
+print('Seu nome tem {} letras, sem considerar os espaços em branco' .format(qtd))
+lista = nome.split()
+qtd = len(lista[0])
+print('Seu primeiro nome tem {} letras!' .format(qtd))

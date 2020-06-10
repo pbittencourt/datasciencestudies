@@ -1,0 +1,2 @@
+Exercício Python #005 - Antecessor e Sucessor
+Exercício Python #006 - Dobro, Triplo, Raiz Quadrada

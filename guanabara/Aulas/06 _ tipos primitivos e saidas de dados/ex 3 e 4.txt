@@ -1,0 +1,2 @@
+Exercício Python #003 - Somando dois números
+Exercício Python #004 - Dissecando uma Variável
