@@ -1,37 +1,10 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-import re
-
-def arithmetic_arranger(lst, show_answers):
-    """Faz aquelas parada doida mano
-
-    :lst: TODO
-    :returns: TODO
-
-    """
-    pass
+# This entrypoint file to be used in development. Start by reading README.md
+from arithmetic_arranger import arithmetic_arranger
+from unittest import main
 
 
-conta = "52-235"
-oper = re.findall('\D', conta)
-oper = oper[0]
-x,y = conta.split(oper)
+print(arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"]))
 
-if len(x) > len(y):
-    size = len(x) + 2
-else:
-    size = len(y) + 2
 
-if oper == '+':
-    result = int(x) + int(y)
-elif oper == '-':
-    result = int(x) - int(y)
-else:
-    result = None
-
-print(x.rjust(size))
-print(oper, end=' ')
-print(y.rjust(size-2))
-print('-' * size)
-print(str(result).rjust(size))
+# Run unit tests automatically
+main(module='test_module', exit=False)
