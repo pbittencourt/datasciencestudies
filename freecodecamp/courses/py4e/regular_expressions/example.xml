@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:document-content xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:ooo="http://openoffice.org/2004/office" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:rpt="http://openoffice.org/2005/report" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:text="text" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" office:version="1.2">
+    <office:body>
+        <office:text text:use-soft-page-breaks="true">
+            <office:forms form:automatic-focus="false" form:apply-design-mode="false" />
+            <text:sequence-decls>
+                <text:sequence-decl text:display-outline-level="0" text:name="Illustration" />
+                <text:sequence-decl text:display-outline-level="0" text:name="Table" />
+                <text:sequence-decl text:display-outline-level="0" text:name="Text" />
+                <text:sequence-decl text:display-outline-level="0" text:name="Drawing" />
+                <text:sequence-decl text:display-outline-level="0" text:name="Figure" />
+            </text:sequence-decls>
+            <text:p text:style-name="Title">Atividades de física</text:p>
+            <text:h text:style-name="Heading_20_1" text:outline-level="1">
+                <text:bookmark-start text:name="__RefHeading___Toc38570_504203585" />
+                Bases do conhecimento científico
+                <text:bookmark-end text:name="__RefHeading___Toc38570_504203585" />
+            </text:h>
+            <table:table table:name="Tabela40" table:style-name="Tabela40">
+                <table:table-column table:style-name="Tabela40.A" />
+                <table:table-row>
+                    <table:table-cell table:style-name="Tabela40.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">
+                            <text:bookmark-start text:name="__RefHeading___Toc31645_1311256037" />
+                            Objetivos conceituais deste módulo
+                            <text:bookmark-end text:name="__RefHeading___Toc31645_1311256037" />
+                        </text:p>
+                        <text:list xml:id="list3708146453" text:style-name="L1">
+                            <text:list-item>
+                                <text:p text:style-name="P5">Identificar corretamente grandezas físicas em um texto, sabendo classificá-las como escalares ou vetoriais e expressando suas características.</text:p>
+                            </text:list-item>
+                            <text:list-item>
+                                <text:p text:style-name="P5">Diferenciar grandezas escalares de grandezas vetoriais, fornecendo exemplos de cada tipo.</text:p>
+                            </text:list-item>
+                            <text:list-item>
+                                <text:p text:style-name="P5">Operar com vetores, realizando adições, subtrações e decomposições em direções ortogonais.</text:p>
+                            </text:list-item>
+                            <text:list-item>
+                                <text:p text:style-name="P5">Aplicar propriedades de gráficos, tais como inclinação da curva e área sob a curva, para calcular grandezas físicas derivadas.</text:p>
+                            </text:list-item>
+                            <text:list-item>
+                                <text:p text:style-name="P5">Representar de forma clara as situações-problema utilizando desenhos e gráficos, quando necessário.</text:p>
+                            </text:list-item>
+                            <text:list-item>
+                                <text:p text:style-name="P5">Interpretar gráficos, tabelas e funções.</text:p>
+                            </text:list-item>
+                        </text:list>
+                    </table:table-cell>
+                </table:table-row>
+            </table:table>
+            <text:h text:style-name="Heading_20_2" text:outline-level="2">
+                <text:bookmark-start text:name="__RefHeading___Toc9882_1981651267" />
+                Uma introdução ao estudo de Física
+                <text:bookmark-end text:name="__RefHeading___Toc9882_1981651267" />
+            </text:h>
+            <text:h text:style-name="Heading_20_3" text:outline-level="3">
+                <text:bookmark-start text:name="__RefHeading___Toc9884_1981651267" />
+                Questões
+                <text:bookmark-end text:name="__RefHeading___Toc9884_1981651267" />
+            </text:h>
+            <text:list xml:id="list1853190851" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">Discutimos em sala de aula o início do pensamento científico em algumas civilizações, principalmente a partir dos gregos e suas buscas por explicações. Porém, antes mesmo de falarmos sobre uma concepção mais moderna de ciência, fizemos certas aproximações entre o cientista moderno e os antigos sacerdotes e magos. Quais diferenças e semelhanças podemos estabelecer entre eles?</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Você acha que afirmar que o arco-íris se deve à dispersão da luz branca é uma explicação científica? Qual a diferença entre essa explicação e a afirmação de que ele é um sinal divino?</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Dê pelo menos três diferenças entre uma previsão científica e uma profecia.</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Você acha que só as previsões científicas merecem crédito? Por quê?</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Comente a frase de Einstein: “É a teoria que decide o que deve ser observado”.</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">
+                        <text:soft-page-break />
+                        A física pode afirmar que existem discos voadores? E vida extraterrestre?
+                    </text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Dos termos ou expressões dados a seguir, quais são grandezas físicas? Peso, esforço, caráter, calor, energia, volume, volume de trabalho, volume de jogo, luminosidade, claridade, umidade, potência, excentricidade? Justifique.</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Tente lembrar um acontecimento de repercussão mundial que caracterize um resultado prejudicial do desenvolvimento científico ou tecnológico. Comente a ocorrência e discuta se ela poderia ter sido evitada caso a cultura científica e tecnológica da população fosse mais sólida.</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Estudamos ao longo das primeiras aulas que os egípcios desenvolveram um dos mais significativos calendários da antiguidade. Qual é a relação de um calendário eficiente com o desenvolvimento de uma civilização?</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">A respeito da “física” Aristotélica, pergunta-se:</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Como Aristóteles classificava os movimentos?</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Por que os objetos caem no chão, na visão de Aristóteles?</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">A respeito do item anterior, como seria uma explicação mais moderna para o movimento de queda dos corpos?</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+            </text:list>
+            <text:h text:style-name="Heading_20_3" text:outline-level="3">
+                <text:bookmark-start text:name="__RefHeading___Toc16777_1801288956" />
+                Testes e vestibulares
+                <text:bookmark-end text:name="__RefHeading___Toc16777_1801288956" />
+            </text:h>
+            <text:list xml:id="list214720077289129" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">O surgimento da figura da Ema no céu, ao leste, no anoitecer, na segunda quinzena de junho, indica o início do inverno para os índios do sul do Brasil e o começo da estação seca para os do norte. É limitada pelas constelações de Escorpião e do Cruzeiro do Sul, ou Cut'uxu. Segundo o mito guarani, o Cut’uxu segura a cabeça da ave para garantir a vida na Terra, porque, se ela se soltar, beberá toda a água do nosso planeta. Os tupisguaranis utilizam o Cut'uxu para se orientar e determinar a duração das noites e as estações do ano. A ilustração a seguir é uma representação dos corpos celestes que constituem a constelação da Ema, na percepção indígena.</text:p>
+                </text:list-item>
+            </text:list>
+            <text:p text:style-name="Text_20_body">
+                <draw:frame draw:style-name="fr1" draw:name="Figura260" text:anchor-type="as-char" svg:width="7.278cm" svg:height="5.082cm" draw:z-index="0">
+                    <draw:image xlink:href="Pictures/1000020100000113000000C069D3A226A352F9E1.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                </draw:frame>
+            </text:p>
+            <text:list xml:id="list214718095438279" text:continue-numbering="true" text:style-name="L2">
+                <text:list-header>
+                    <text:p text:style-name="P6">
+                        <text:soft-page-break />
+                        A próxima figura mostra, em campo de visão ampliado, como povos de culturas não-indígenas percebem o espaço estelar em que a Ema é vista.
+                    </text:p>
+                </text:list-header>
+            </text:list>
+            <text:p text:style-name="Text_20_body">
+                <draw:frame draw:style-name="fr1" draw:name="Figura261" text:anchor-type="as-char" svg:width="7.278cm" svg:height="5.029cm" draw:z-index="1">
+                    <draw:image xlink:href="Pictures/1000020100000113000000BE897B3508D3FFB612.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                </draw:frame>
+            </text:p>
+            <text:list xml:id="list214720013361685" text:continue-numbering="true" text:style-name="L2">
+                <text:list-header>
+                    <text:p text:style-name="P6">Considerando a diversidade cultural focalizada no texto e nas figuras acima, avalie as seguintes afirmativas.</text:p>
+                    <text:p text:style-name="P6">I - A mitologia guarani relaciona a presença da Ema no firmamento às mudanças das estações do ano.</text:p>
+                    <text:p text:style-name="P6">II - Em culturas indígenas e não-indígenas, o Cruzeiro do Sul, ou Cut'uxu, funciona como parâmetro de orientação espacial.</text:p>
+                    <text:p text:style-name="P6">III - Na mitologia guarani, o Cut'uxu tem a importante função de segurar a Ema para que seja preservada a água da Terra.</text:p>
+                    <text:p text:style-name="P6">IV - As três Marias, estrelas da constelação de Órion, compõem a figura da Ema.</text:p>
+                    <text:p text:style-name="P6">É correto apenas o que se afirma em</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">I.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">II e III.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">III e IV.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">I, II e III.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">I, II e IV.</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-header>
+            </text:list>
+            <text:h text:style-name="Heading_20_2" text:outline-level="2">
+                <text:bookmark-start text:name="__RefHeading___Toc9888_1981651267" />
+                A física e o método científico
+                <text:bookmark-end text:name="__RefHeading___Toc9888_1981651267" />
+            </text:h>
+            <text:h text:style-name="Heading_20_3" text:outline-level="3">
+                <text:bookmark-start text:name="__RefHeading___Toc9892_1981651267" />
+                Exercícios
+                <text:bookmark-end text:name="__RefHeading___Toc9892_1981651267" />
+            </text:h>
+            <text:list xml:id="list214719895762903" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">Faça as seguintes transformações de unidades:</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">13 m = _____ cm</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">120 mm = _____ m</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">
+                                <text:soft-page-break />
+                                2,5 cm = _____ km
+                            </text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">12 m² = _____ cm²</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">2 cm³ = _____ mm³</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">350 mL = _____ dm³</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">0,02 kg = _____ mg</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">4 h 25 min = _____ s</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">20 s = _____ min</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Para verificar se um paciente estava com febre, um enfermeiro, utilizando um termômetro clínico, viu a indicação mostrada na figura. Qual o valor da temperatura do paciente? Quantos algarismos significativos há nesse valor?</text:p>
+                </text:list-item>
+            </text:list>
+            <text:p text:style-name="Text_20_body">
+                <draw:frame draw:style-name="fr2" draw:name="Figura92" text:anchor-type="as-char" svg:width="8.41cm" svg:height="2.822cm" draw:z-index="2">
+                    <draw:image xlink:href="Pictures/100002010000012A00000064EB95D50C19D99A3C.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                </draw:frame>
+            </text:p>
+            <text:list xml:id="list214719809962794" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">Cite qual é a menor escala de leitura dos equipamentos a seguir:</text:p>
+                    <text:p text:style-name="P6">
+                        2,894 m
+                        <text:tab />
+                        45,3746 cm
+                        <text:tab />
+                        <text:tab />
+                        48,23 °C
+                        <text:tab />
+                        45,261 kg
+                    </text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">(Unicamp - adaptado) "Erro da NASA pode ter destruído sonda" (Folha de S. Paulo, 1/10/1999). Para muita gente, as unidades em problemas de Física representam um mero detalhe sem importância. No entanto, o descuido ou a confusão com unidades pode ter consequências catastróficas, como aconteceu recentemente com a NASA. A agência espacial americana admitiu que a provável causa da perda de uma sonda enviada a Marte estaria relacionada com um problema de conversão de unidades. Foi fornecido ao sistema de navegação da sonda o raio de sua órbita em metros, quando, na verdade, este valor deveria estar em pés. O raio de uma órbita circular segura para a sonda seria r = 2,1⋅10⁵ m, mas o sistema de navegação interpretou esse dado como sendo em pés. Como o raio da órbita ficou menor, a sonda desintegrou-se devido ao calor gerado pelo atrito com a atmosfera marciana. Calcule para essa órbita fatídica o raio em pés. Considere 1 pé = 0,30 m.</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">
+                        Na natureza existem animais classificados como homeotérmicos e pecilotérmicos. Os répteis, os peixes e os anfíbios são pecilotérmicos, pois a temperatura de seu corpo varia em função de fatores ambientais, como, por exemplo, a presença do Sol. Nós, seres humanos, somos classificados como animais homeotérmicos, pois conseguimos
+                        <text:soft-page-break />
+                        manter a temperatura corpórea aproximadamente constante, apesar de existirem pequenas diferenças no metabolismo e na circulação sanguínea de cada pessoa.
+                    </text:p>
+                    <text:p text:style-name="P6">Abaixo, temos uma tabela que contém a temperatura corpórea de alguns pacientes. Analisando os dados, responda:</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Qual paciente está, possivelmente, com febre?</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Em qual paciente foi utilizado um termômetro com maior precisão?</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Calcule a média das temperaturas dos pacientes aparentemente saudáveis.</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+            </text:list>
+            <table:table table:name="Tabela19" table:style-name="Tabela19">
+                <table:table-column table:style-name="Tabela19.A" />
+                <table:table-column table:style-name="Tabela19.B" />
+                <table:table-row table:style-name="Tabela19.1">
+                    <table:table-cell table:style-name="Tabela19.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Paciente</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela19.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Medida da temperatura corpórea</text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <table:table-row table:style-name="Tabela19.1">
+                    <table:table-cell table:style-name="Tabela19.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Alaor</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela19.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">36,58 °C</text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <table:table-row table:style-name="Tabela19.1">
+                    <table:table-cell table:style-name="Tabela19.A3" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Belina</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela19.B3" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">36,72 °C</text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <table:table-row table:style-name="Tabela19.1">
+                    <table:table-cell table:style-name="Tabela19.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Clodoaldo</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela19.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">36,80 °C</text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <table:table-row table:style-name="Tabela19.1">
+                    <table:table-cell table:style-name="Tabela19.A5" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Dolores</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela19.B5" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">37,98 °C</text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <table:table-row table:style-name="Tabela19.1">
+                    <table:table-cell table:style-name="Tabela19.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Evaldo</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela19.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">36,680 °C</text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <table:table-row table:style-name="Tabela19.1">
+                    <table:table-cell table:style-name="Tabela19.A7" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Fagner</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela19.B7" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">36,22 °C</text:p>
+                    </table:table-cell>
+                </table:table-row>
+            </table:table>
+            <text:h text:style-name="Heading_20_3" text:outline-level="3">
+                <text:bookmark-start text:name="__RefHeading___Toc37497_504203585" />
+                Testes e vestibulares
+                <text:bookmark-end text:name="__RefHeading___Toc37497_504203585" />
+            </text:h>
+            <text:list xml:id="list214719575855853" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">(Enem) Dados divulgados pelo Instituto Nacional de Pesquisas Espaciais mostraram o processo de devastação sofrido pela Região Amazônica entre agosto de 1999 e agosto de 2000. Analisando fotos de satélites, os especialistas concluíram que, nesse período, sumiu do mapa um total de 20 000 quilômetros quadrados de floresta. Um órgão de imprensa noticiou o fato com o seguinte texto: O assustador ritmo de destruição é de um campo de futebol a cada oito segundos.</text:p>
+                    <text:p text:style-name="P6">Considerando que um ano tem aproximadamente 32 x 10⁶ s (trinta e dois milhões de segundos) e que a medida da área oficial de um campo de futebol é aproximadamente 10⁻² km² (um centésimo de quilômetro quadrado), as informações apresentadas nessa notícia permitem concluir que tal ritmo de desmatamento, em um ano, implica a destruição de uma área de</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">10 000 km², e a comparação dá a ideia de que a devastação não é tão grave quanto o dado numérico nos indica.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">10 000 km², e a comparação dá a ideia de que a devastação é mais grave do que o dado numérico nos indica.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">20 000 km², e a comparação retrata exatamente o ritmo da destruição.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">
+                                <text:soft-page-break />
+                                40 000 km², e o autor da notícia exagerou na comparação, dando a falsa impressão de gravidade a um fenômeno natural.
+                            </text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">40 000 km² e, ao chamar a atenção para um fato realmente grave, o autor da notícia exagerou na comparação.</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Ano-luz é uma unidade de distância que mede a distância percorrida pela luz em um ano. Uma nave que viaja com 2/5 da velocidade da luz levará então o seguinte tempo para percorrer uma distância de 4 anos-luz:</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">2 anos.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">4 anos.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">5 anos.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">10 anos.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">20 anos.</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Se compararmos a idade do planeta Terra, avaliada em quatro e meio bilhões de anos, com a de uma pessoa de 45 anos, então, quando começaram a florescer os primeiros vegetais, a Terra já teria 42 anos. Ela só conviveu com o homem moderno nas últimas quatro horas e, há cerca de uma hora, viu-o começar a plantar e a colher. Há menos de um minuto percebeu o ruído de máquinas e de indústrias e, como denuncia uma ONG de defesa do meio ambiente, foram nesses últimos sessenta segundos que se produziu todo o lixo do planeta!</text:p>
+                    <text:p text:style-name="P6">O texto permite concluir que a agricultura começou a ser praticada há cerca de:</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">365 anos.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">460 anos.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">900 anos.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">10 000 anos.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">460 000 anos.</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">
+                        Se compararmos a idade do planeta Terra, avaliada em quatro e meio bilhões de anos, com a de uma pessoa de 45 anos, então, quando começaram a florescer os primeiros vegetais, a Terra já teria 42 anos. Ela só conviveu com o homem moderno nas últimas quatro horas e, há cerca de uma hora, viu-o começar a plantar e a colher. Há menos de um minuto percebeu o ruído de máquinas e de indústrias e, como denuncia uma ONG de defesa do meio ambiente, foram nesses últimos sessenta segundos que se
+                        <text:soft-page-break />
+                        produziu todo o lixo do planeta!
+                    </text:p>
+                    <text:p text:style-name="P6">Na teoria do Big Bang, o Universo surgiu há cerca de 15 bilhões de anos, a partir da explosão e expansão de uma gota muito densa. De acordo com a escala proposta no texto, essa teoria situaria o início do Universo há cerca de:</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">100 anos.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">150 anos.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">1 000 anos.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">1 500 anos.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">2 000 anos.</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">A tabela abaixo resume alguns dados importantes sobre os satélites de Júpiter:</text:p>
+                </text:list-item>
+            </text:list>
+            <table:table table:name="Tabela34" table:style-name="Tabela34">
+                <table:table-column table:style-name="Tabela34.A" />
+                <table:table-column table:style-name="Tabela34.B" />
+                <table:table-column table:style-name="Tabela34.A" />
+                <table:table-column table:style-name="Tabela34.B" />
+                <table:table-row table:style-name="Tabela34.1">
+                    <table:table-cell table:style-name="Tabela34.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Nome</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Diâmetro (km)</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Distância média ao centro de Júpiter (km)</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Período orbital (dias terrestres)</text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <table:table-row table:style-name="Tabela34.1">
+                    <table:table-cell table:style-name="Tabela34.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Io</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">3 642</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">421 800</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">1,8</text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <table:table-row table:style-name="Tabela34.1">
+                    <table:table-cell table:style-name="Tabela34.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Europa</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">3 138</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">670 900</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">3,6</text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <table:table-row table:style-name="Tabela34.1">
+                    <table:table-cell table:style-name="Tabela34.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Ganimedes</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">5 262</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">1 070 000</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A2" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">7,2</text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <table:table-row table:style-name="Tabela34.1">
+                    <table:table-cell table:style-name="Tabela34.A5" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">Calisto</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A5" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">4 800</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A5" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">1 880 000</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela34.A5" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">16,7</text:p>
+                    </table:table-cell>
+                </table:table-row>
+            </table:table>
+            <text:list xml:id="list214718874597467" text:continue-numbering="true" text:style-name="L2">
+                <text:list-header>
+                    <text:p text:style-name="P6">Ao observar os satélites de Júpiter pela primeira vez, Galileu Galilei fez diversas anotações e tirou importantes conclusões sobre a estrutura de nosso universo. A figura abaixo reproduz uma anotação de Galileu referente a Júpiter e seus satélites.</text:p>
+                </text:list-header>
+            </text:list>
+            <text:p text:style-name="Text_20_body">
+                <draw:frame draw:style-name="fr3" draw:name="Figura259" text:anchor-type="as-char" svg:width="9.897cm" svg:height="2.117cm" draw:z-index="3">
+                    <draw:image xlink:href="Pictures/1000020100000176000000508BD27A68271F2DEC.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                </draw:frame>
+            </text:p>
+            <text:list xml:id="list214718565097376" text:continue-numbering="true" text:style-name="L2">
+                <text:list-header>
+                    <text:p text:style-name="P6">De acordo com essa representação e com os dados da tabela, os pontos indicados por 1, 2, 3 e 4 correspondem, respectivamente, a:</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Io, Europa, Ganimedes e Calisto.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Ganimedes, Io, Europa e Calisto.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Europa, Calisto, Ganimedes e Io.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Calisto, Ganimedes, Io e Europa.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Calisto, Io, Europa e Ganimedes.</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-header>
+            </text:list>
+            <text:h text:style-name="Heading_20_2" text:outline-level="2">
+                <text:bookmark-start text:name="__RefHeading___Toc9894_1981651267" />
+                <text:soft-page-break />
+                Grandezas escalares e grandezas vetoriais
+                <text:bookmark-end text:name="__RefHeading___Toc9894_1981651267" />
+            </text:h>
+            <text:h text:style-name="Heading_20_3" text:outline-level="3">
+                <text:bookmark-start text:name="__RefHeading___Toc9896_1981651267" />
+                Questões
+                <text:bookmark-end text:name="__RefHeading___Toc9896_1981651267" />
+            </text:h>
+            <text:list xml:id="list214720269625123" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">Leia o texto abaixo e responda ao que se pede.</text:p>
+                    <text:p text:style-name="P6">O despertador toca estridente; são 6 h da manhã. Em um gesto decidido, você deixa a cama, dirige-se para o banheiro e acende a luz. Uma lâmpada de potência excessiva brilha forte no teto, chegando quase a ofuscar. Você abre a torneira da pia para iniciar sua higiene matinal e começa a escovar os dentes. Nota então que a água jorra em grande vazão, o que exige uma constante intervenção. Em razão da força aplicada por uma rajada de vento, uma porta bate violentamente, quebrando o silêncio próprio da hora. Você se vê refletido no espelho de grande área embaçado pelo vapor ascendente vindo da água quente do chuveiro já aberto.</text:p>
+                    <text:p text:style-name="P6">No rápido café da manhã, um bom pedaço de pão compõe com o leite escurecido pela grande massa de chocolate em pó a primeira refeição. Descendo no elevador do prédio, você lê uma vez mais aquela pequena placa que adverte sobre o peso máximo suportado pelo equipamento.</text:p>
+                    <text:p text:style-name="P6">Já na calçada, você nota que o dia será quente, o que é confirmado pela temperatura indicada em um painel eletrônico: 24 °C. E eis que chega o esperado ônibus de sempre. O tráfego está intenso, o que impõe ao veículo um deslocamento lento pelas ruas do bairro. Visando realizar o percurso com a velocidade média prevista, o motorista aproveita para arrancar com grande aceleração nos trechos livres.</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Cite pelo menos três grandezas escalares mencionadas no texto.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Cite pelo menos três grandezas vetoriais mencionadas no texto.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">O que difere grandezas escalares de grandezas vetoriais?</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+            </text:list>
+            <text:h text:style-name="Heading_20_3" text:outline-level="3">
+                <text:bookmark-start text:name="__RefHeading___Toc9898_1981651267" />
+                Exercícios
+                <text:bookmark-end text:name="__RefHeading___Toc9898_1981651267" />
+            </text:h>
+            <text:list xml:id="list214718821235719" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">Determine o módulo do vetor soma de a (|a| = 30 u) com b (|b| = 40 u) em cada caso:</text:p>
+                </text:list-item>
+            </text:list>
+            <table:table table:name="Tabela10" table:style-name="Tabela10">
+                <table:table-column table:style-name="Tabela10.A" />
+                <table:table-column table:style-name="Tabela10.B" />
+                <table:table-row table:style-name="Tabela10.1">
+                    <table:table-cell table:style-name="Tabela10.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">a)</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela10.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">
+                            <draw:frame draw:style-name="fr4" draw:name="Figura49" text:anchor-type="as-char" svg:width="3.076cm" svg:height="1.411cm" draw:z-index="4">
+                                <draw:image xlink:href="Pictures/100002010000006D00000032E9325E38DAC5B755.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                            </draw:frame>
+                        </text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <table:table-row table:style-name="Tabela10.1">
+                    <table:table-cell table:style-name="Tabela10.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">b)</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela10.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">
+                            <draw:frame draw:style-name="fr3" draw:name="Figura50" text:anchor-type="as-char" svg:width="5.193cm" svg:height="0.903cm" draw:z-index="5">
+                                <draw:image xlink:href="Pictures/10000201000000B800000020E8AC2132AE97E2D2.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                            </draw:frame>
+                        </text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <text:soft-page-break />
+                <table:table-row table:style-name="Tabela10.1">
+                    <table:table-cell table:style-name="Tabela10.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">c)</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela10.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">
+                            <draw:frame draw:style-name="fr5" draw:name="Figura51" text:anchor-type="as-char" svg:width="3.471cm" svg:height="3.02cm" draw:z-index="6">
+                                <draw:image xlink:href="Pictures/100002010000007B0000006B17DC50E9D79721DB.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                            </draw:frame>
+                        </text:p>
+                    </table:table-cell>
+                </table:table-row>
+            </table:table>
+            <text:list xml:id="list214719310424511" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">
+                        Determine o módulo do vetor soma de
+                        <draw:frame draw:style-name="fr14" draw:name="Objeto222" text:anchor-type="as-char" svg:width="0.427cm" svg:height="0.467cm" draw:z-index="7">
+                            <draw:object xlink:href="./Object 4" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" />
+                            <draw:image xlink:href="./ObjectReplacements/Object 4" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" />
+                            <svg:desc>fórmula</svg:desc>
+                        </draw:frame>
+                        <text:s />
+                        (a = 120 u) com
+                        <draw:frame draw:style-name="fr14" draw:name="Objeto223" text:anchor-type="as-char" svg:width="0.425cm" svg:height="0.467cm" draw:z-index="8">
+                            <draw:object xlink:href="./Object 5" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" />
+                            <draw:image xlink:href="./ObjectReplacements/Object 5" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" />
+                            <svg:desc>fórmula</svg:desc>
+                        </draw:frame>
+                        <text:s />
+                        (b = 160 u) em cada caso:
+                    </text:p>
+                </text:list-item>
+            </text:list>
+            <text:p text:style-name="Text_20_body">
+                <draw:frame draw:style-name="fr6" draw:name="Figura57" text:anchor-type="as-char" svg:width="9.021cm" svg:height="7.391cm" draw:z-index="9">
+                    <draw:image xlink:href="Pictures/10000201000001AA0000015D704EB0608EC7ABB4.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                </draw:frame>
+            </text:p>
+            <text:list xml:id="list214718279338484" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">No plano quadriculado abaixo estão representados três vetores: x, y e z. Determine o módulo da soma s = x + y + z.</text:p>
+                </text:list-item>
+            </text:list>
+            <text:p text:style-name="Text_20_body">
+                <draw:frame draw:style-name="fr7" draw:name="Figura52" text:anchor-type="as-char" svg:width="8.13cm" svg:height="4.66cm" draw:z-index="10">
+                    <draw:image xlink:href="Pictures/1000020100000180000000DCB3D9646E230917C6.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                </draw:frame>
+            </text:p>
+            <text:list xml:id="list214718836081560" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">Qual é o módulo da resultante das forças M, N, P e Q aplicadas ao ponto O, como se mostra na figura abaixo?</text:p>
+                </text:list-item>
+            </text:list>
+            <text:p text:style-name="Text_20_body">
+                <text:soft-page-break />
+                <draw:frame draw:style-name="fr3" draw:name="Figura56" text:anchor-type="as-char" svg:width="7.675cm" svg:height="4.763cm" draw:z-index="11">
+                    <draw:image xlink:href="Pictures/1000020100000122000000B4E3404E2D1DAEFBAC.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                </draw:frame>
+            </text:p>
+            <text:list xml:id="list214718926043626" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">O peso de um corpo é uma força vertical, dirigida para baixo. Na figura, está representado um bloco de peso P, apoiado em um plano inclinado de 30° em relação à horizontal.</text:p>
+                </text:list-item>
+            </text:list>
+            <text:p text:style-name="Text_20_body">
+                <draw:frame draw:style-name="fr8" draw:name="Figura53" text:anchor-type="as-char" svg:width="5.644cm" svg:height="3.695cm" draw:z-index="12">
+                    <draw:image xlink:href="Pictures/10000201000000C800000083134D6F28BB3B83B1.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                </draw:frame>
+            </text:p>
+            <text:list xml:id="list214719450682385" text:continue-numbering="true" text:style-name="L2">
+                <text:list-header>
+                    <text:p text:style-name="P6">Sabendo que a intensidade de P é igual a 40,0 newtons, calcule as intensidades dos componentes Pt e Pn, isto é, as intensidades dos componentes de P segundo as retas t (tangente à superfície) e n (normal à superfície). Adote sen 30° = 0,50 e cos 30° = 0,87.</text:p>
+                </text:list-header>
+                <text:list-item>
+                    <text:p text:style-name="P6">
+                        Em cada caso a seguir, determine os componentes do vetor
+                        <draw:frame draw:style-name="fr14" draw:name="Objeto38" text:anchor-type="as-char" svg:width="0.427cm" svg:height="0.467cm" draw:z-index="13">
+                            <draw:object xlink:href="./Object 3" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" />
+                            <draw:image xlink:href="./ObjectReplacements/Object 3" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" />
+                            <svg:desc>fórmula</svg:desc>
+                        </draw:frame>
+                        <text:s />
+                        nas direções das retas r e s.
+                    </text:p>
+                </text:list-item>
+            </text:list>
+            <table:table table:name="Tabela3" table:style-name="Tabela3">
+                <table:table-column table:style-name="Tabela3.A" />
+                <table:table-column table:style-name="Tabela3.B" />
+                <table:table-row table:style-name="Tabela3.1">
+                    <table:table-cell table:style-name="Tabela3.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">
+                            <draw:frame draw:style-name="fr9" draw:name="Figura7" text:anchor-type="as-char" svg:width="4.219cm" svg:height="4.309cm" draw:z-index="14">
+                                <draw:image xlink:href="Pictures/10000201000000BB000000BF2305A6EB0BC4DE77.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                            </draw:frame>
+                        </text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela3.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">
+                            <draw:frame draw:style-name="fr10" draw:name="Figura8" text:anchor-type="as-char" svg:width="4.941cm" svg:height="3.679cm" draw:z-index="15">
+                                <draw:image xlink:href="Pictures/10000201000000DB000000A349084E4BFABD1030.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                            </draw:frame>
+                        </text:p>
+                    </table:table-cell>
+                </table:table-row>
+            </table:table>
+            <text:list xml:id="list214719582817653" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">Decomponha, nas direções ortogonais x e y, os vetores mostrados a seguir, indicando quais grandezas físicas cada um representa.</text:p>
+                </text:list-item>
+            </text:list>
+            <table:table table:name="Tabela29" table:style-name="Tabela29">
+                <table:table-column table:style-name="Tabela29.A" />
+                <table:table-column table:style-name="Tabela29.B" />
+                <text:soft-page-break />
+                <table:table-row>
+                    <table:table-cell table:style-name="Tabela29.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">a)</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela29.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">
+                            <draw:frame draw:style-name="fr11" draw:name="Figura161" text:anchor-type="as-char" svg:width="5.313cm" svg:height="4.26cm" draw:z-index="16">
+                                <draw:image xlink:href="Pictures/10000201000000F2000000C23DF59FC70BD093F4.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                            </draw:frame>
+                        </text:p>
+                    </table:table-cell>
+                </table:table-row>
+                <table:table-row>
+                    <table:table-cell table:style-name="Tabela29.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">b)</text:p>
+                    </table:table-cell>
+                    <table:table-cell table:style-name="Tabela29.A1" office:value-type="string">
+                        <text:p text:style-name="Text_20_body">
+                            <draw:frame draw:style-name="fr11" draw:name="Figura162" text:anchor-type="as-char" svg:width="5.376cm" svg:height="4.244cm" draw:z-index="17">
+                                <draw:image xlink:href="Pictures/10000201000000F2000000BFD282763A7EE7B97B.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                            </draw:frame>
+                        </text:p>
+                    </table:table-cell>
+                </table:table-row>
+            </table:table>
+            <text:list xml:id="list214720246277919" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">
+                        Um avião te
+                        <text:bookmark text:name="_GoBack5" />
+                        m velocidade de 750 km/h em relação ao ar. Esse avião deve sair de uma cidade A e dirigir-se a uma cidade B, situada 1600 km ao norte de A. Calcule quanto tempo demorará essa viagem, sabendo que sopra um vento de sul para norte, com velocidade de 50 km/h em relação ao solo.
+                    </text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">O motor de um barco imprime-lhe uma velocidade de 5 m/s em águas paradas. O barco navega num rio cuja correnteza tem velocidade de 3 m/s. Calcule a distância percorrida pelo barco em 10 minutos, nos seguintes casos:</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">rio abaixo;</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">rio acima.</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Num vagão de trem que se movimenta com velocidade constante de 15 m/s em relação aos trilhos, dois irmãos, André e Bernardo, correm em sentidos opostos, na mesma direção que o vagão se movimenta. Ambos se movem com velocidade de 5 m/s em relação ao vagão. Quais as velocidades dos garotos em relação aos trilhos?</text:p>
+                </text:list-item>
+            </text:list>
+            <text:p text:style-name="Text_20_body">
+                <draw:frame draw:style-name="fr3" draw:name="Figura54" text:anchor-type="as-char" svg:width="8.47cm" svg:height="3.334cm" draw:z-index="18">
+                    <draw:image xlink:href="Pictures/100002010000017800000094159CAFE7F6A81C74.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                </draw:frame>
+            </text:p>
+            <text:list xml:id="list214719717039465" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">Um barco leva 40 minutos para descer um rio a favor da correnteza e 1 hora quando está contra ela. Quanto tempo o barco levaria para descer o rio em águas paradas?</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">
+                        <text:soft-page-break />
+                        (Fuvest) Uma canoa atravessa um rio de 54 m de largura, entre margens paralelas, com velocidade relativa às águas de módulo igual a v1 = 1,8 m/s e orientada na direção da largura do rio.
+                    </text:p>
+                    <text:p text:style-name="P6">
+                        <draw:frame draw:style-name="fr11" draw:name="Figura145" text:anchor-type="as-char" svg:width="6.74cm" svg:height="4.33cm" draw:z-index="19">
+                            <draw:image xlink:href="Pictures/100002010000024E0000017B08D4614B47938791.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                        </draw:frame>
+                    </text:p>
+                    <text:p text:style-name="P6">Sabendo-se que ela chega à outra margem com um deslocamento de 15 m água abaixo, qual o módulo da velocidade da correnteza (v2) desse rio ?</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Um avião voa para o norte a 60 m/s em relação ao vento, que o empurra em uma direção perpendicular ao seu movimento em relação ao solo. Sabendo-se que a velocidade do avião em relação ao solo é de 61 m/s, qual é a velocidade do vento?</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">A escada rolante que liga a plataforma de uma estação subterrânea de metrô ao nível da rua move-se com velocidade constante de 0,80 m/s.</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Sabendo-se que a escada tem uma inclinação de 30° em relação à horizontal, determine o componente vertical de sua velocidade.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Sabendo-se que o tempo necessário para que um passageiro seja transportado pela escada do nível da plataforma ao nível da rua é de 30 segundos, determine a que profundidade se encontra o nível da primeira em relação à segunda.</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">(UFPB – adaptado) Um ônibus urbano percorre, no início de seu itinerário, o seguinte trajeto:</text:p>
+                    <text:p text:style-name="P6">• Parte do terminal e percorre uma distância de, aproximadamente, 1200 m no sentido sul-norte por 15 min.</text:p>
+                    <text:p text:style-name="P6">• Para e permanece por 5 min em um ponto de ônibus e, em seguida, desloca-se mais 800 m, durante 10 min, também no sentido sul-norte.</text:p>
+                    <text:p text:style-name="P6">Com base nessas informações, calcule o valor da velocidade escalar média desse ônibus.</text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">
+                        (Unicamp − modificado) A figura representa um mapa da cidade de Vectoria, o qual indica a direção das mãos do tráfego. Devido ao congestionamento, os veículos trafegam com a velocidade média de 9 km/h. Cada quadra desta cidade mede 400 m
+                        <text:soft-page-break />
+                        por 400 m (do centro da uma rua ao centro da outra rua). Uma ambulância localizada em A precisa pegar um doente localizado bem no meio da quadra em B, sem andar na contramão.
+                    </text:p>
+                    <text:p text:style-name="P6">
+                        <draw:frame draw:style-name="fr12" draw:name="Figura123" text:anchor-type="as-char" svg:width="7.052cm" svg:height="7.114cm" draw:z-index="20">
+                            <draw:image xlink:href="Pictures/10000000000001C5000001C97EB1A10BB769E1B2.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                        </draw:frame>
+                    </text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Qual o menor tempo gasto (em minutos) no percurso de A para B?</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">Qual é o módulo do vetor velocidade média (em km/h) entre os pontos A e B?</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Um caminhão de entrega de gás percorre as ruas do bairro de A até B, como mostra a figura, em 30 minutos. Sabendo que a distância entre duas ruas paralelas consecutivas é de 100 m, calcule o módulo da velocidade vetorial média nesse percurso.</text:p>
+                    <text:p text:style-name="P6">
+                        <draw:frame draw:style-name="fr12" draw:name="Figura144" text:anchor-type="as-char" svg:width="5.161cm" svg:height="4.773cm" draw:z-index="21">
+                            <draw:image xlink:href="Pictures/10000000000001D2000001AF46738EBE5ECB8879.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/jpeg" />
+                        </draw:frame>
+                    </text:p>
+                </text:list-item>
+            </text:list>
+            <text:h text:style-name="Heading_20_3" text:outline-level="3">
+                <text:bookmark-start text:name="__RefHeading___Toc25039_1186958215" />
+                Testes e vestibulares
+                <text:bookmark-end text:name="__RefHeading___Toc25039_1186958215" />
+            </text:h>
+            <text:list xml:id="list214718305413593" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">Um avião decola de um aeroporto e voa 100 km durante 18 min no sentido leste; a seguir, seu piloto aponta para o norte e voa mais 400 km durante 1 h; por fim, aponta para o oeste e voa os últimos 50 km, sempre em linha reta, em 12 min, até pousar no aeroporto de destino. O módulo de sua velocidade vetorial média nesse percurso todo terá sido, em km/h, de aproximadamente</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">200.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">
+                                <text:soft-page-break />
+                                230.
+                            </text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">270.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">300.</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">400.</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">A copa das Confederações é uma competição realizada de quatro em quatro anos organizada pela FIFA (Federação internacional de Futebol) e terá o Brasil como sede em 2013. Essa competição servirá como teste para a copa do mundo em 2014. Imagine que, buscando melhorar as marcações da regra de futebol em um jogo, fosse desenvolvido um chip que embutido na bola seria capaz de auxiliar o juiz e ajudar em toda a estatística da partida. Para testar esse chip foi, então, realizado um experimento onde quatro jogadores trocaram passes com a bola de um ponto a outro do campo, como mostra a figura abaixo. (Considere as faixas de grama da mesma largura.)</text:p>
+                    <text:p text:style-name="P6">
+                        <draw:frame draw:style-name="fr13" draw:name="Figura293" text:anchor-type="as-char" svg:width="7.992cm" svg:height="5.265cm" draw:z-index="22">
+                            <draw:image xlink:href="Pictures/100000000000012E000000C75FEC7F026EA2FC47.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" loext:mime-type="image/png" />
+                        </draw:frame>
+                    </text:p>
+                    <text:p text:style-name="P6">O jogador de número 8 passou a bola para o de número 5 que, em seguida, passou para o de numero 7 e que, finalmente, passou para o de número 9. O módulo do deslocamento, em m, sofrido pela bola do início ao final do teste é:</text:p>
+                    <text:list>
+                        <text:list-item>
+                            <text:p text:style-name="P6">41</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">10</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">34</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">26</text:p>
+                        </text:list-item>
+                        <text:list-item>
+                            <text:p text:style-name="P6">99</text:p>
+                        </text:list-item>
+                    </text:list>
+                </text:list-item>
+            </text:list>
+            <text:h text:style-name="Heading_20_2" text:outline-level="2">
+                <text:bookmark-start text:name="__RefHeading___Toc9900_1981651267" />
+                Propriedades gerais de gráficos e de funções
+                <text:bookmark-end text:name="__RefHeading___Toc9900_1981651267" />
+            </text:h>
+            <text:h text:style-name="Heading_20_3" text:outline-level="3">
+                <text:bookmark-start text:name="__RefHeading___Toc9902_1981651267" />
+                Questões
+                <text:bookmark-end text:name="__RefHeading___Toc9902_1981651267" />
+            </text:h>
+            <text:list xml:id="list214718818704388" text:continue-numbering="true" text:style-name="L2">
+                <text:list-item>
+                    <text:p text:style-name="P6">
+                        Uma função matemática qualquer pode ser representada em um sistema de eixos
+                        <text:soft-page-break />
+                        coordenados (plano cartesiano). Essa representação é chamada gráfico da função. Como podemos proceder para verificar se a inclinação da curva num dado ponto pode nos fornecer informações sobre uma grandeza física?
+                    </text:p>
+                </text:list-item>
+                <text:list-item>
+                    <text:p text:style-name="P6">Uma função matemática qualquer pode ser representada em um sistema de eixos coordenados (plano cartesiano). Essa representação é chamada gráfico da função. Como podemos proceder para verificar se a área sob a curva pode nos fornecer informações sobre uma grandeza física?</text:p>
+                </text:list-item>
+            </text:list>
+        </office:text>
+    </office:body>
+</office:document-content>
+
