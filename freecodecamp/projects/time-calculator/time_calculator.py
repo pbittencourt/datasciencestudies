@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-def numbertoampm(hour, minute):
+def numbertoampm(hour: int, minute: int) -> tuple:
+    """
+    Convert time in hh:mm format to AM/PM.
+    """
     if hour < 12 or hour == 24:
         period = 'AM'
     else:
@@ -12,7 +15,10 @@ def numbertoampm(hour, minute):
     return (hour, minute, period)
 
 
-def ampmtonumber(time):
+def ampmtonumber(time: str) -> tuple:
+    """
+    Convert time in AM/PM format to hh:mm.
+    """
     hour, minute, period = time.split(':')
     if period == 'AM':
         if hour == '12':
@@ -28,14 +34,14 @@ def ampmtonumber(time):
     return (hour, minute, period)
 
 
-def add_time(start, duration, weekday=''):
+def add_time(start: str, duration: str, weekday: str = '') -> str:
     """
     Add the duration time to the start time and return the result.
 
     :start: time in the 12-hour clock format (ending in AM or PM) -> str
     :duration: time that indicates the number of hours and minutes -> str
     :day_week: (optional) starting day of the week, case insensitive -> str
-    :returns: TODO
+    :returns: hour:minute period[, weekday][ days_ahead]
     """
 
     # days of the week
