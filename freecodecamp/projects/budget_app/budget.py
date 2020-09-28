@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+from difflib import ndiff
+
 class Category:
 
     def __init__(self: object, category: str) -> None:
@@ -19,7 +21,7 @@ class Category:
             msg += '\n'
             amount =item['amount']
             description = item['description']
-            msg += f'{description:<23.22}{amount:>7.2f}'
+            msg += f'{description:<23.23}{amount:>7.2f}'
         msg += f'\nTotal: {self.get_balance():.2f}'
 
         return msg
@@ -115,7 +117,7 @@ def create_spend_chart(categories: list) -> str:
     :categories: list of categories (instances from `Category`) -> list
     :returns: bar chart -> str
     """
-    print('Percentage spent by category')
+    msg = 'Percentage spent by category\n'
 
     # calc total spents in each category and the 
     # total spents in `categories` list
@@ -142,59 +144,56 @@ def create_spend_chart(categories: list) -> str:
         integer = round(percentage)
         nearest = 10 * (integer // 10)
         cat_percentage[category] = nearest
-    print(cat_percentage)
 
     # print axis
     for i in range(100, -1, -10):
-        print(f'{i:>3}|', end='')
+        msg += f'{i:>3}| '
         for value in cat_percentage.values():
             if value < i:
-                print('   ', end='')
+                msg += '   '
             else:
-                print(' o ', end='')
-        print('\r')
+                msg += 'o  '
+        msg += '\n'
+
+    # print separator
+    width = len(categories) * 3
+    msg += '    -' + '-' * width + '\n'
 
     # print labels
-    width = len(categories) * 3
-    print('    ' + '-' * width)
     for i in range(0, max_word_size):
-        print('    ', end='')
+        msg += '     '
         for category in categories:
             name = category.category
             try:
-                print(f' {name[i]} ', end='')
+                msg += f'{name[i]}  '
             except:
-                print(f'   ', end='')
-                pass
-        print('\r')
+                msg += f'   '
+        if i < max_word_size - 1:
+            msg += '\n'
+
+    return msg
 
 
 if __name__ == "__main__":
     food = Category('Food')
-    food.deposit(1000, 'initial deposit')
-    food.withdraw(10.15, 'groceries')
-    food.withdraw(15.89, 'restaurant and more food because we can!')
-    print(food)
+    business = Category('Business')
+    entertainment = Category('Entertainment')
 
-    medicine = Category('Medicine')
-    medicine.deposit(2000, 'dinero mano')
-    medicine.withdraw(225, 'um gasto ae')
-    print(medicine)
+    food.deposit(900, "deposit")
+    entertainment.deposit(900, "deposit")
+    business.deposit(900, "deposit")
+    food.withdraw(105.55)
+    entertainment.withdraw(33.40)
+    business.withdraw(10.99)
+    expected = "Percentage spent by category\n100|          \n 90|          \n 80|          \n 70|    o     \n 60|    o     \n 50|    o     \n 40|    o     \n 30|    o     \n 20|    o  o  \n 10|    o  o  \n  0| o  o  o  \n    ----------\n     B  F  E  \n     u  o  n  \n     s  o  t  \n     i  d  e  \n     n     r  \n     e     t  \n     s     a  \n     s     i  \n           n  \n           m  \n           e  \n           n  \n           t  "
+    actual = create_spend_chart([business, food, entertainment])
 
-    food.transfer(722, medicine)
+    for i, s in enumerate(ndiff(expected, actual)):
+        if s[0] == ' ': continue
+        elif s[0] == '-':
+            print(u'Delete "{}" from position {}'.format(s[-1], i))
+        elif s[0] == '+':
+            print(u'Add "{}" to position {}'.format(s[-1], i))
+        print()
 
-    random = Category('Random shit')
-    random.deposit(500.55, 'brinca ae filhaum!')
-    random.withdraw(322, 'dorgas')
-    random.withdraw(170, 'putas')
-    
-    education = Category('Educação')
-    education.deposit(10000, 'fundo fiduciário')
-    education.withdraw(1689.32, 'mensalidade da escola da quiança mddc')
-
-    print(food)
-    print(medicine)
-    print(random)
-    print(education)
-
-    create_spend_chart([food, medicine, random, education])
+    print(actual)
