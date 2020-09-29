@@ -4,8 +4,8 @@ My personal studies on Python for Data Science, with some variety of resources:
 1. **Python 3** course, given by *Gustavo Guanabara* in his Youtube channel, [Curso em Vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
 2. **Data Science** course, given by [Dataquest](https://app.dataquest.io)
 3. **Data Science with Python** course, given by [UCSanDiegoX](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2020/course/)
-4. **Freecodecamp** courses, via (freeCodeCamp)[https://www.freecodecamp.org]:
-    * (Scientific Computing With Python Certification)[https://www.freecodecamp.org/learn/scientific-computing-with-python], by (Dr. Charles R. Severance)[http://www.dr-chuck.com]
+4. **Freecodecamp** courses, via [freeCodeCamp](https://www.freecodecamp.org):
+    * [Scientific Computing With Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python), by [Dr. Charles R. Severance](http://www.dr-chuck.com)
 
 In this repository, you will find:
 
