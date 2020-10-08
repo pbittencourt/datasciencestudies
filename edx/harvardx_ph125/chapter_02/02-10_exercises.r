@@ -13,14 +13,15 @@ pop[1]
 # 2. Now instead of the smallest population size, find the index of the entry with the smallest population size. Hint: use order instead of sort.
 
 pop <- murders$population # reassign to original vector
-index <- order(pop)
-index[1]
-pop[index[1]]
+ord <- order(pop)
+ord[1]
+pop[ord[1]]
 
 # 3. We can actually perform the same operation as in the previous exercise using the function which.min. Write one line of code that does this.
 
 index_min = which.min(pop)
 index_min
+pop[which.min(pop)]
 index_max = which.max(pop)
 index_max
 
@@ -47,6 +48,7 @@ my_df
 data('na_example')
 ind <- is.na(na_example)
 length(na_example[ind])
+#sum(ind) gives the same output
 
 # 8. Now compute the average again, but only for the entries that are not NA. Hint: remember the ! operator.
 
